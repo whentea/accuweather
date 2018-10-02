@@ -2,6 +2,9 @@
 
 [Visit the site !](https://www.accuweather.com/)
 
+
+![Live Capture!](https://i.imgur.com/EXTZZdg.gif)
+
 Steps to scrap the accuweather site
 * Get module bs4 
 * Import **BeautifulSoup**
